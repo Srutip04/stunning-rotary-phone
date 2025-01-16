@@ -1,0 +1,24 @@
+{
+  "name": "peer2play-assignment",
+  "version": "1.0.0",
+  "description": "This project implements an automated market maker (AMM) liquidity pool that enables decentralized token swapping and liquidity provision. The implementation uses the constant product formula and includes features for swapping tokens, adding liquidity, and removing liquidity.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Srutip04/stunning-rotary-phone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Srutip04/stunning-rotary-phone/issues"
+  },
+  "homepage": "https://github.com/Srutip04/stunning-rotary-phone#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.18"
+  }
+}
