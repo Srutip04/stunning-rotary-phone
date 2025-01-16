@@ -2,9 +2,9 @@ import { ethers } from "ethers";
 import UniswapV2Pool from "./contracts/Liquidity.json";
 
 
-const POOL_ADDRESS = "0xF6166E528078d659f13C0e7C5C81118ef8754d68";
-const BNB_ADDRESS = "0xE46c46a057CdFda1D0c3A66E4B6849ee4B1682B8";
-const USDC_ADDRESS = "0x851D9fd3a459db40F04EFe54A85c99CA7C55c88A";
+const POOL_ADDRESS = "0x9d83e140330758a8fFD07F8Bd73e86ebcA8a5692";
+const BNB_ADDRESS = "0xcD6a42782d230D7c13A74ddec5dD140e55499Df9";
+const USDC_ADDRESS = "0xaE036c65C649172b43ef7156b009c6221B596B8b";
 
 const BNB_FAUCET_AMOUNT = ethers.utils.parseEther("0.1");
 const USDC_FAUCET_AMOUNT = ethers.utils.parseEther("100");
